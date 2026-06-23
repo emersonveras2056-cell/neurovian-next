@@ -1,0 +1,14 @@
+node_modules/
+.next/
+out/
+.env.local
+.env*.local
+npm-debug.log*
+
+# Dados sensíveis: login do admin, tickets e metadados de áudio.
+# NUNCA versionar em repositório público.
+/data/*.json
+
+# Áudios enviados pelo admin (binários, não pertencem ao controle de versão)
+/public/sons/*
+!/public/sons/.gitkeep
