@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Neurovian — Documentação do Projeto
 
 Este repositório é a refatoração completa do projeto original `Neurovian-z-main`
@@ -200,3 +201,6 @@ npm run start
   resposta HTTP, sem lógica de negócio espalhada;
 - Comentários em português explicam **o porquê** das decisões (ex.: por que
   o usuário não tem login), não apenas o que o código faz.
+=======
+# neurovian-next
+>>>>>>> 05746602a2c0f411350d8407033227b5dfddd34d
