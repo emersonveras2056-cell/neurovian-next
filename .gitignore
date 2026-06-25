@@ -3,7 +3,7 @@ node_modules/
 out/
 .env
 .env.local
-.env*.local
+.env*
 npm-debug.log*
 
 # Dados sensíveis: login do admin, tickets e metadados de áudio.
